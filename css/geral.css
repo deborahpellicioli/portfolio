@@ -1,0 +1,38 @@
+body {
+background: #FF0099;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #493240, #FF0099);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #493240, #FF0099); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+
+h1{
+    color: whitesmoke;
+    font-size: 42px;
+    font-family: 'Cherry Swash', cursive;
+}
+.link {
+ color: whitesmoke;
+    font-family: 'Cherry Swash', cursive;
+    font-size: 30px;
+}
+.fixed {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
+
+p{
+    color: whitesmoke;
+    font-size: 20px;
+}
+h2 {
+    color: #ffe9c9;
+    font-size: 32px;
+    background-image: linear-gradient(to right, black, #0b0a0a);
+    text-align: center;
+    font-family: 'Cherry Swash', cursive;
+    border-radius: 20px;
+    padding: 10px;
+    border: 5px solid white;
+}

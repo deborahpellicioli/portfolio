@@ -1,0 +1,71 @@
+body {
+background: #FF0099;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #493240, #FF0099);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #493240, #FF0099); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+
+h1{
+    color: whitesmoke;
+    font-size: 42px;
+    font-family: 'Cherry Swash', cursive;
+}
+.link {
+ color: whitesmoke;
+   
+}
+.fixed {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
+
+p{
+    color: white;
+    font-size: 20px;
+}
+.video {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+ .tamvid {
+            width: 560px;
+            height: 315px;
+  }
+.tam1 {
+     width: 560px;
+    height: 500px;  
+
+}
+.tam2 {
+     width: 600px;
+    height: 400px;  
+
+}
+.tam3 {
+     width: 850px;
+    height: 400px;  
+}
+.tam4 {
+     width: 680px;
+    height: 400px;  
+
+}
+.img {
+ display: flex;
+justify-content: center;
+align-items: center;   
+}
+}
+.icon {
+    width: 50px;
+    height: 50px;
+}
+th, td {
+   color: whitesmoke;
+    font-size: 30px;
+    font-family: 'Cherry Swash', cursive;
+}
